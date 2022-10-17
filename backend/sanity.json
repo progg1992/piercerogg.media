@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "React-Portfolio"
+    "name": "piercerogg.media"
   },
   "api": {
-    "projectId": "ekig3dzh",
+    "projectId": "trdy7r08",
     "dataset": "production"
   },
   "plugins": [
